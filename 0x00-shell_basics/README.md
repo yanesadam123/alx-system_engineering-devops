@@ -1,1 +1,2 @@
-Display the contents list of your courrent directory in along formt
+README file for repository
+README file for repo
